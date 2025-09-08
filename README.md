@@ -1,4 +1,4 @@
-This repository contains **System Integration Testing (SIT)** test cases for **ALSiraj Bank Core Banking System**.  
+This repository contains **System Integration Testing (SIT)** test cases for **ALSiraj Bank**.  
 
 The test cases are designed to validate the **integration and functionality** of two key modules:  
 
